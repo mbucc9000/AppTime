@@ -1,0 +1,9 @@
+Package: com.mbucc9000.apptime
+Name: AppTime
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Tracks how long you spend in each app (screen on and unlocked only). See Settings > App Time for Today, Last 7 Days and All Time.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
